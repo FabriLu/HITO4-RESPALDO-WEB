@@ -14,3 +14,5 @@ Un **control de versiones con GitHub no sustituye un respaldo Docker** porque am
 | Servidor web Nginx | Puede guardar su configuración | Puede incluir Nginx instalado y configurado |
 | Restauración del entorno | Requiere reconstruirlo | Permite cargar la imagen directamente |
 | Datos persistentes | No automáticamente | No se incluyen en `docker save`; requieren respaldo independiente |
+
+Fabrizio Hernán Magne Luizaga
